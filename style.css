@@ -1,0 +1,13 @@
+html {
+  height: 101%;
+  width: 100%;
+}
+body {
+  background-color: #4B81BC;
+}
+a:hover {
+  color: yellow;
+}
+a:visited {
+  color: #00ff40;
+}
